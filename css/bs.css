@@ -1,0 +1,129 @@
+.card{
+    height:105px;
+    width: 100%;
+    background-color: #474141;
+    justify-content: space-between;
+}
+.chinhboloc{
+    position:absolute;
+    top:57%;
+    left: 100px;
+    right: 10px;
+    margin-left:10px ;
+    margin-right: 10px;
+    width: 10%;
+    height: 35px;
+    border-radius:7px ;
+    border: 2px solid #FFD700;
+}
+.chinhboloc:hover{
+    border: 2px solid #50C7C7;
+    color:white;
+    background-color: #2F4F4F;
+}
+.locmot{
+    position:absolute;
+    top:57%;
+    left: 220px;
+    right: 10px;
+    margin-left:10px ;
+    margin-right: 10px;
+    width: 11%;
+    height: 35px;
+    border-radius:7px ;
+    border: 2px solid #FFD700;
+}
+.locmot:hover{
+    border: 2px solid #00CCFF;
+    color:white;
+    background-color: #2F4F4F;
+}
+.Suy-ra{
+    position:absolute;
+    top:60%;
+    left: 75px;
+    width: 3%;
+    right: 40px;
+    margin-left:10px ;
+    margin-right: 10px;
+    height: 35px;
+    border-radius:15px ;
+    font-size: 17px;
+    color: #F08080;
+}
+.export{
+    position:absolute;
+    top:47%;
+    margin-left:10px ;
+    margin-right: 10px;
+    height: 35px;
+    
+    font-size: 17px;
+    color: #0e0d0d;
+}
+.card h4{
+    color: antiquewhite;
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+#time{
+    position:absolute;
+    margin: 30px auto;
+    top: 50%;   
+    right: 170px;
+    padding-top:20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background:teal;
+    color: aliceblue;
+    border-radius: 10px;
+}
+#timengay{
+    position:absolute;
+    margin: 30px auto;
+    padding-top:20px ;
+    top: 50%;   
+    right: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background:teal;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.motmot{
+    position:absolute;
+    top:82%;
+    height: 15px;
+    width: 15px;
+    background-color: #474141;
+    border-radius:50%;
+    right: 33px;
+}
+.haimot{position:absolute;
+    top:82%;
+    height: 15px;
+    width: 15px;
+    background-color: #474141;
+    border-radius:50%;
+    right: 85px;
+}
+.bamot{position:absolute;
+    top:82%;
+    height: 15px;
+    width: 15px;
+    background-color: #474141;
+    border-radius:50%;
+    right: 198px;
+}
+.bonmot{position:absolute;
+    top:82%;
+    height: 15px;
+    width: 15px;
+    background-color: #474141;
+    border-radius:50%;
+    right: 245px;
+}
+
+
+
